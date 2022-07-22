@@ -2,7 +2,6 @@ import React from 'react'
 
 import './FollowersCard.css';
 
-import { Followers } from '../../Data/FollowersData';
 import User from '../User/User';
 
 import { useState } from 'react'
